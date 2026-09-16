@@ -6,14 +6,21 @@ and applies reversible Provider Profile switches.
 
 ## Current Status
 
-The public update repository is ready. No public binary release has been
-published yet.
+Codex SW `0.1.6` is the current Stable release.
 
 ## Downloads
 
-Stable installers and their SHA-256 checksums will be published here after
-release validation. Codex SW also verifies the signed Stable update feed and
-the downloaded package hash before an update can be applied.
+- [Download Codex SW 0.1.6 Setup](https://github.com/Aigots/Codex-SW-Updates/releases/download/v0.1.6/CodexSW-stable-Setup.exe)
+- [View the v0.1.6 release](https://github.com/Aigots/Codex-SW-Updates/releases/tag/v0.1.6)
+
+Setup SHA-256:
+
+```text
+E6F484B159C9F7EBB6F6CB7C30E13262C950854EA5EDC87729944C7CCCD46977
+```
+
+Codex SW also verifies the signed Stable update feed and the downloaded package
+hash before an update can be applied.
 
 ## Updates
 
